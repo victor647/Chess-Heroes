@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5f26aff-0ec5-4195-adff-ee69bf0681fb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Chess/Chess.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="73" column="16" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
+              <folding>
+                <marker date="1564918447559" expanded="true" signature="6:99" ph="..." />
+                <marker date="1564918447559" expanded="true" signature="116:7150" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="144:270" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="299:338" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="453:632" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="677:7148" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="975:1088" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="1165:1304" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="1370:1741" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="1777:1945" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="1890:1935" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="1995:5277" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="2088:5267" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="2410:2596" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="2756:3135" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="2936:3112" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="3255:3894" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="3506:3872" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="4018:4462" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="4583:4844" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="4965:5226" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="5336:5495" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="5556:6162" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="5716:6061" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="6206:6531" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="6579:6830" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="6882:7007" ph="{...}" />
+                <marker date="1564918447559" expanded="true" signature="7035:7142" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Chess/ChessBoard.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-233">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+              <folding>
+                <marker date="1564903662407" expanded="true" signature="6:85" ph="..." />
+                <marker date="1564903662407" expanded="true" signature="102:2327" ph="{...}" />
+                <marker date="1564903662407" expanded="true" signature="148:2325" ph="{...}" />
+                <marker date="1564903662407" expanded="true" signature="406:455" ph="{...}" />
+                <marker date="1564903662407" expanded="true" signature="485:543" ph="{...}" />
+                <marker date="1564903662407" expanded="true" signature="590:959" ph="{...}" />
+                <marker date="1564903662407" expanded="true" signature="785:949" ph="{...}" />
+                <marker date="1564903662407" expanded="true" signature="1037:1437" ph="{...}" />
+                <marker date="1564903662407" expanded="true" signature="1499:1565" ph="{...}" />
+                <marker date="1564903662407" expanded="true" signature="1604:1637" ph="{...}" />
+                <marker date="1564903662407" expanded="true" signature="1673:1795" ph="{...}" />
+                <marker date="1564903662407" expanded="true" signature="1870:1971" ph="{...}" />
+                <marker date="1564903662407" expanded="true" signature="2050:2154" ph="{...}" />
+                <marker date="1564903662407" expanded="true" signature="2223:2319" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Chess/ChessPositionConfig.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <marker date="1564896230849" expanded="true" signature="6:66" ph="..." />
+                <marker date="1564896230849" expanded="true" signature="83:441" ph="{...}" />
+                <marker date="1564896230849" expanded="true" signature="134:207" ph="{...}" />
+                <marker date="1564896230849" expanded="true" signature="354:439" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Chess/Chess.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Chess/ChessBoard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Chess/ChessPositionConfig.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chess/Pawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chess/ChessPositionConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chess/ChessBoard.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Chess/Chess.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="422" />
+    <option name="y" value="476" />
+    <option name="width" value="2880" />
+    <option name="height" value="1620" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Chess" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="7728">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="7728" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5f26aff-0ec5-4195-adff-ee69bf0681fb" name="Default Changelist" comment="" />
+      <created>1564889739914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564889739914</updated>
+      <workItem from="1564889744431" duration="18820000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18820000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1933" height="1093" extended-state="7" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18390192" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.28659162" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Chess/Pawn.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Chess/ChessBoard.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-233">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <marker date="1564903662407" expanded="true" signature="6:85" ph="..." />
+            <marker date="1564903662407" expanded="true" signature="102:2327" ph="{...}" />
+            <marker date="1564903662407" expanded="true" signature="148:2325" ph="{...}" />
+            <marker date="1564903662407" expanded="true" signature="406:455" ph="{...}" />
+            <marker date="1564903662407" expanded="true" signature="485:543" ph="{...}" />
+            <marker date="1564903662407" expanded="true" signature="590:959" ph="{...}" />
+            <marker date="1564903662407" expanded="true" signature="785:949" ph="{...}" />
+            <marker date="1564903662407" expanded="true" signature="1037:1437" ph="{...}" />
+            <marker date="1564903662407" expanded="true" signature="1499:1565" ph="{...}" />
+            <marker date="1564903662407" expanded="true" signature="1604:1637" ph="{...}" />
+            <marker date="1564903662407" expanded="true" signature="1673:1795" ph="{...}" />
+            <marker date="1564903662407" expanded="true" signature="1870:1971" ph="{...}" />
+            <marker date="1564903662407" expanded="true" signature="2050:2154" ph="{...}" />
+            <marker date="1564903662407" expanded="true" signature="2223:2319" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Chess/Chess.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="73" column="16" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
+          <folding>
+            <marker date="1564918447559" expanded="true" signature="6:99" ph="..." />
+            <marker date="1564918447559" expanded="true" signature="116:7150" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="144:270" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="299:338" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="453:632" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="677:7148" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="975:1088" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="1165:1304" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="1370:1741" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="1777:1945" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="1890:1935" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="1995:5277" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="2088:5267" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="2410:2596" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="2756:3135" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="2936:3112" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="3255:3894" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="3506:3872" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="4018:4462" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="4583:4844" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="4965:5226" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="5336:5495" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="5556:6162" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="5716:6061" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="6206:6531" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="6579:6830" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="6882:7007" ph="{...}" />
+            <marker date="1564918447559" expanded="true" signature="7035:7142" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Chess/ChessPositionConfig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1564896230849" expanded="true" signature="6:66" ph="..." />
+            <marker date="1564896230849" expanded="true" signature="83:441" ph="{...}" />
+            <marker date="1564896230849" expanded="true" signature="134:207" ph="{...}" />
+            <marker date="1564896230849" expanded="true" signature="354:439" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

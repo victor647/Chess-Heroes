@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 295d99c3b89299c4eb268f828f35c4c9, type: 3}
+  m_Name: ChessPositions
+  m_EditorClassIdentifier: 
+  ChessConfigs:
+  - Chess: {fileID: 11400000, guid: 86f11f0ab023a0041bafa663dc67ab37, type: 2}
+    Position: {x: 0, y: 3}
+  - Chess: {fileID: 11400000, guid: 86f11f0ab023a0041bafa663dc67ab37, type: 2}
+    Position: {x: 2, y: 3}
+  - Chess: {fileID: 11400000, guid: 86f11f0ab023a0041bafa663dc67ab37, type: 2}
+    Position: {x: 4, y: 3}
+  - Chess: {fileID: 11400000, guid: 86f11f0ab023a0041bafa663dc67ab37, type: 2}
+    Position: {x: 6, y: 3}
+  - Chess: {fileID: 11400000, guid: 86f11f0ab023a0041bafa663dc67ab37, type: 2}
+    Position: {x: 8, y: 3}
+  - Chess: {fileID: 11400000, guid: 4da0b07ee3de67647bc0d6a4d09d5464, type: 2}
+    Position: {x: 1, y: 2}
+  - Chess: {fileID: 11400000, guid: 4da0b07ee3de67647bc0d6a4d09d5464, type: 2}
+    Position: {x: 7, y: 2}
+  - Chess: {fileID: 11400000, guid: 30ed2e11619fedd4686f241fbbd2f4ea, type: 2}
+    Position: {x: 0, y: 0}
+  - Chess: {fileID: 11400000, guid: 30ed2e11619fedd4686f241fbbd2f4ea, type: 2}
+    Position: {x: 8, y: 0}
+  - Chess: {fileID: 11400000, guid: 8c9c3ed4599ffea4887bdd3a95916d95, type: 2}
+    Position: {x: 1, y: 0}
+  - Chess: {fileID: 11400000, guid: 8c9c3ed4599ffea4887bdd3a95916d95, type: 2}
+    Position: {x: 7, y: 0}
+  - Chess: {fileID: 11400000, guid: 47bdecbba3ea35d458c8ae36c3bed2c1, type: 2}
+    Position: {x: 2, y: 0}
+  - Chess: {fileID: 11400000, guid: 47bdecbba3ea35d458c8ae36c3bed2c1, type: 2}
+    Position: {x: 6, y: 0}
+  - Chess: {fileID: 11400000, guid: bf949a9f17b617946b6e25783af3cc56, type: 2}
+    Position: {x: 3, y: 0}
+  - Chess: {fileID: 11400000, guid: bf949a9f17b617946b6e25783af3cc56, type: 2}
+    Position: {x: 5, y: 0}
+  - Chess: {fileID: 11400000, guid: 20a4bfb14d1b3bc448809d1215fe8e48, type: 2}
+    Position: {x: 4, y: 0}
