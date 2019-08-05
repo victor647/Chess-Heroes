@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb63d2963ffe9ae408fa5c350ffac35f, type: 3}
   m_Name: Cannon
   m_EditorClassIdentifier: 
-  MaxHealth: 50
-  AttackDamage: 30
+  MaxHealth: 80
+  AttackDamage: 20
   ChessType: 3
-  SpriteRed: {fileID: -6909148798369877208, guid: 6999e433688a17549a39e9f139bb184d,
-    type: 3}
   SpriteBlack: {fileID: 847855007080137082, guid: 6999e433688a17549a39e9f139bb184d,
+    type: 3}
+  SpriteRed: {fileID: -6909148798369877208, guid: 6999e433688a17549a39e9f139bb184d,
     type: 3}

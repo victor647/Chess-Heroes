@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb63d2963ffe9ae408fa5c350ffac35f, type: 3}
   m_Name: Chariot
   m_EditorClassIdentifier: 
-  MaxHealth: 80
-  AttackDamage: 20
+  MaxHealth: 70
+  AttackDamage: 30
   ChessType: 1
-  SpriteRed: {fileID: -2089831053429522451, guid: 9275fc9c070125c4ebc53bfacbd4323f,
-    type: 3}
   SpriteBlack: {fileID: -116689240335485928, guid: 9275fc9c070125c4ebc53bfacbd4323f,
+    type: 3}
+  SpriteRed: {fileID: -2089831053429522451, guid: 9275fc9c070125c4ebc53bfacbd4323f,
     type: 3}

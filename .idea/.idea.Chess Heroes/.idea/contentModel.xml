@@ -10,7 +10,13 @@
           <e p="Chess" t="Include">
             <e p="Chess.cs" t="Include" />
             <e p="ChessBoard.cs" t="Include" />
+            <e p="ChessDestination.cs" t="Include" />
+            <e p="ChessPiece.cs" t="Include" />
             <e p="ChessPositionConfig.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="EndGameController.cs" t="Include" />
+            <e p="UIManager.cs" t="Include" />
           </e>
         </e>
       </e>
